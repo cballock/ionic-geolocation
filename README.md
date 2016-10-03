@@ -2,4 +2,5 @@
 
 This is a Ionic Framework Google Maps demo application made for blog article: http://www.gajotres.net/using-cordova-geoloacation-api-with-google-maps-in-ionic-framework/
 
-
+## On iOS 10
+https://forum.ionicframework.com/t/cordova-geolocation-plugin-doesnt-work-with-ionic-on-ios-10/65363
